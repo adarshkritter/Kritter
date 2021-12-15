@@ -90,8 +90,7 @@ public class Main {
             else{
                 loopingCheck=FALSE;
             }
-
-        System.out.println("Thank you for using our service. Have a nice day!");
     }
+        System.out.println("Thank you for using our service. Have a nice day!");
 }
 }
